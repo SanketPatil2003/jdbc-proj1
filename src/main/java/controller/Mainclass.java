@@ -47,7 +47,7 @@ public class Mainclass {
 		et.begin();
 		em.remove(e5);
 		et.commit();
-		System.out.println("value deleted");
+		System.out.println("value delet");
 	}
 
 }
